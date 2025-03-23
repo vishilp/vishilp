@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm a Software Developer based in Los Angeles<br><br>- 🔭 I’m currently working on a PacMan Clone<br>- 📚 I'm learning front-end frameworks like React and exploring technological advancements<br>- ⚡ My personal hobbies include weightlifting, cooking, and watching sit-coms</p>
+<p align="left">I'm a Software Developer based in Los Angeles<br><br>- 🔭 I’m currently working on a Machine Learning projects such as builing a Music Recommendation System<br>- 📚 I'm learning back-end technologies and looking into cloud services<br>- ⚡ My personal hobbies include weightlifting, cooking, and watching sit-coms</p>
 
 ###
 
